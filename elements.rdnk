@@ -1,0 +1,7 @@
+?CONFIG {
+  compilerSet: id(0);
+}
+
+int main(arg * argset_main) {
+  ui::element() button in namespace\modui;
+}
